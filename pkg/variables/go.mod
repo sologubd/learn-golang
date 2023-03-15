@@ -1,3 +1,3 @@
-module github.com/sologubd/learn-golang/pkg/variables
+module pkg/variables
 
 go 1.20

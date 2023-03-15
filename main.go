@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-
-    "pkg/variables"
+	"pkg/variables"
 )
 
 func main() {
 	fmt.Println("Let's get started!")
+	variables.InitVariables()
 }
