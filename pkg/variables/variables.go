@@ -1,4 +1,4 @@
-package variables
+package github.com/sologubd/learn-golang/pkg/variables
 import (
         "fmt"
 )
