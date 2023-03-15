@@ -6,4 +6,4 @@ The playground for learning Golang step by step
 
 **Data Types and Variables**
 
-- [Variables](/pkg/variables/variables.go)
+- [Variables](/pkg/variables)
